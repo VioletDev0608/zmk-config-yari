@@ -1,0 +1,5 @@
+#include "yari_dtsi"
+
+&default-transform {
+    col-offset = <8>
+}
