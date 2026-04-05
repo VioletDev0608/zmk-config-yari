@@ -1,0 +1,13 @@
+file_format: "1"
+id: yari
+name: yari
+type: shield
+url: https://github.com/VioletDev0608/Yari
+requires:
+  - nRF52840 Supermini
+features:
+  - keys
+  - encoder
+siblings:
+  - yari_left
+  - yari_right

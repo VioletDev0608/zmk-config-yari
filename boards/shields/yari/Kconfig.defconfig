@@ -1,4 +1,4 @@
-if SHIELD_YARI
+if SHIELD_YARI_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "yari"
